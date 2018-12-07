@@ -1,13 +1,12 @@
 #!/bin/bash
 
-# Based on https://gist.github.com/2206527
 
 # Be pretty
 echo -e " "
 echo -e " .  ____  .    ______________________________"
 echo -e " |/      \|   |                              |"
 echo -e "[| \e[1;31m♥    ♥\e[00m |]  | S3 MySQL Backup Script v.0.1 |"
-echo -e " |___==___|  /                © oodavid 2012 |"
+echo -e " |___==___|  /                © Hashim 2018 |"
 echo -e "              |______________________________|"
 echo -e " "
 
